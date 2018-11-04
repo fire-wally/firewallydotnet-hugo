@@ -3,7 +3,6 @@
 	"author": "Ryan Ricard",
 	"description": "Just a photo from my bike ride home",
 	"date": "2018-11-04T10:05:45-06:00",
-	"draft": true,
 	"cover": "ford_bridge.jpg",
 	"cover_alt": "Photo of the Mississippi River at sunset. Fall colors are in full view along both banks. The Lake Street bridge is visible in the distance",
 	"cover_title": "It's a good bridge"

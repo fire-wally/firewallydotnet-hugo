@@ -2,7 +2,6 @@
 title: "Hello Again"
 date: 2018-11-04T09:30:04-06:00
 author: "Ryan Ricard"
-draft: true
 description: "I made a website"
 ---
 
