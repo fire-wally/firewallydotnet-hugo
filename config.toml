@@ -1,3 +1,26 @@
-baseURL = "http://example.org/"
+baseUrl = "https://firewally.net/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Fire Wally Dot Net"
+theme = "hello-friend"
+copyright = ""
+paginate = 5
+
+[params]
+  subtitle = "Where Ryan writes things on the internet"
+
+[params.logo]
+  logoText = "Fire Wally"
+#   or
+#
+#   path = "/img/your-example-logo.svg"
+#   alt = "Your example logo alt text"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact"
