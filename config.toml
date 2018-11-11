@@ -6,7 +6,7 @@ copyright = ""
 paginate = 5
 
 [params]
-  subtitle = "Where Ryan writes things on the internet"
+  # subtitle = "Where Ryan writes things on the internet"
 
 [params.logo]
   logoText = "Fire Wally"
