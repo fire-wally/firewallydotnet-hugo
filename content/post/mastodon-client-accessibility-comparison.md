@@ -39,11 +39,11 @@ Supports "Smart Invert"          | No             | No             | No         
 
 ### Content Warnings
 
-Content Warnings are a way for a poster to give a description of the contents of a post and suggest that it be hidden behind an action in a client UI (requiring e.g. a button tap to open the full post's contents). Content warnings make Mastodon a more pleasant experience for people with many different disabilities, including Post-Traumatic Stress Disorder, Autism Spectrum Disorder, Epilepsy, and many others. Many readers without those disabilities find that CWs give them more control over their reading experience, allowing them to avoid subjects that are unpleasant or uninteresting to them. Many Mastodon instances have developed strong norms around putting Content Warnings on certain categories of posts. 
+Content Warnings are a way for a poster to give a description of a post and suggest that it be hidden behind an action in a client UI (requiring e.g. a button tap to open the full post's contents). Content warnings make Mastodon a more pleasant experience for people with many different disabilities, including post-traumatic stress disorder, autism spectrum disorder, and epilepsy. Many readers without those disabilities also find that CWs give them more control over their reading experience, allowing them to avoid subjects that are unpleasant or uninteresting to them. Many Mastodon instances have developed strong norms around putting Content Warnings on certain categories of posts. 
 
-### Image Descriptions
+### Image and Video Descriptions
 
-
+Adding written descriptions of images and videos makes posts with images more accessible to blind and low-vision readers. In the Mastodon web UI, image descriptions are rendered as both the `alt` attribute, intended for screen readers or situations where images cannot be displayed, and the `title` attribute, which is visible in desktop browsers on mouse-over. This is a good example of designing [accessibility for everyone](https://abookapart.com/products/accessibility-for-everyone), as both people with disabilities and the nondisabled can use and benefit from the feature. Many Mastodon instances 
 
 
 1: Voiceover won't read image descriptions
