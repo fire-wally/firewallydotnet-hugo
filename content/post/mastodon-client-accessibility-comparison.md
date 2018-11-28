@@ -18,22 +18,21 @@ Respect's system font choice
 Color theme options
 Respects "Reduce Motion"
 
-
-Feature                          | Amaroq         | Mast           | Toot!          | Tootdon        | Tootle         | Tusk           |
+User Can...                      | Amaroq         | Mast           | Toot!          | Tootdon        | Tootle         | Tusk           |
 ---------------------------------|----------------|----------------|----------------|----------------|----------------|----------------|         
-12345678123456781234567812345678 |1234567812345678|1234567812345678|1234567812345678|1234567812345678|1234567812345678|1234567812345678|
-Can View Content Warnings        | Yes            | Yes (Config)   | Yes            | Yes            | Yes            | Yes (Config)   |
-Can Write Content Warnings       | Yes            | Yes            | Yes            | Yes            | Yes            | No             |
-CW Show/Hide with                | Long Press     | Tap            | Tap            | Tap            | Tap            | Tap            |
-Can Write Image Descriptions     | Yes            | Yes            | Yes            | No             | No             | No             |
-Can Read Image Descriptions      | V/O Only       | No             | Yes            | No             | Yes            | No             |
-Can Write Video Descriptions     | Yes            | Yes            | N/A            | No             | No             | No             |
-Can Read Video Descriptions      | No             | No             | No             | No             | No             | No             |
+View Content Warnings            | Yes            | Yes (Config)   | Yes            | Yes            | Yes            | Yes (Config)   |
+Write Content Warnings           | Yes            | Yes            | Yes            | Yes            | Yes            | No             |
+Show/Hide CW with                | Long Press     | Tap            | Tap            | Tap            | Tap            | Tap            |
+Write Image Descriptions         | Yes            | Yes            | Yes            | No             | No             | No             |
+Read Image Descriptions          | V/O Only       | No             | Yes            | No             | Yes            | No             |
+Write Video Descriptions         | Yes            | Yes            | N/A            | No             | No             | No             |
+Read Video Descriptions          | No             | No             | No             | No             | No             | No             |
 Color Theme Options              | 1              | 4              | 1              | 2              | 5              | 1              |
-Can Control Gif Animation        | Yes            | Hide Images    | No             | Yes            | Yes            | N/A            |
+Control Gif Animation            | Yes            | Hide Images    | No             | Yes            | Yes            | N/A            |
 VoiceOver Support                | Yes            | No[1]          | No[2]          | No[1]          | No [3]         | No [1]         |
 Respect System Font Size         | Yes            | No             | No             | No             | No             | No             |
 Supports "Smart Invert"          | No             | No             | No             | No             | No             | No             |
+
 
 ## Description of Features Tested
 
