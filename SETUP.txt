@@ -1,0 +1,11 @@
+# SETUP
+
+Things I had to do to get Hugo running on a windows PC:
+
+* Add Sublime text directory to PATH
+* Install hugo (drag and drop from the zip)
+* Add Hugo directory to PATH
+* git clone
+* git submodule init
+* git submodule update
+* 
