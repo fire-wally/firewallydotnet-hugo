@@ -1,8 +1,8 @@
 ---
-title: "Hello Again"
-date: 2018-11-04T09:30:04-06:00
+title: "Mastodon Client Accessibility Comparison"
+date: 2018-11-28 16:55:46 
 author: "Ryan Ricard"
-description: "I made a website"
+description: "Mastodon Client Accessibility Comparison"
 draft: true
 ---
 
