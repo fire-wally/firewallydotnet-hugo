@@ -3,7 +3,6 @@
 	"author": "Ryan Ricard",
 	"description": "I suck at this",
 	"date":  "2018-12-03 15:31:24",
-	"draft": "true",
     "cover": "nicotine_tire.jpg",
     "cover_alt": "Photo of a mountain bike wheel, the tire features a prominent 'NICOTINE' logo and is almost, but not quite, installed onto the rim",
     "cover_title": "Son of a"
