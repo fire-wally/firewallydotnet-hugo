@@ -1,6 +1,6 @@
 ---
 title: "Mastodon Client Accessibility Comparison"
-date: 2018-11-28 16:55:46 
+date: 2018-12-17 16:23:29
 author: "Ryan Ricard"
 description: "Mastodon Client Accessibility Comparison"
 draft: true
@@ -24,7 +24,17 @@ draft: true
 	}
 </style>
 
-User Can...                      | Amaroq         | Mast           | Toot!          | Tootdon        | Tootle         | Tusk           |
+There's been a significant growth in the number of available [Mastodon](https://joinmastodon.org/) apps for iOS in the past few months, with newcomers like Mast and Toot! joining more mature apps like Amaroq and Tootdon, resulting in quite a few choices for iPhone-having Mastodon users. I'm excited to see this diversity of choices and approaches to client apps - it reminds me of the time when Twitter still embraced 3rd-party apps and we saw a great deal of [innovation](https://daringfireball.net/2009/04/twitter_clients_playground) in what a social media app can do. 
+
+One of the first questions I have about a new iOS Mastodon app is whether it supports common accessibility features. Mastodon has set a new high bar, both technically and culturally, for a social network that is accessible by all types of people, and I think the ecosystem of client apps should continue to push that boundary forward. Though my vision is correctible to 20-20 using a common [accessibility device](https://en.wikipedia.org/wiki/Glasses), my [home instance](https://mspsocial.net/) and the wider Fediverse both have strong norms around accessibilty for blind and low-vision users (as well as other disabilities) and I want a Mastodon app that helps me be a good citizen on the platform. 
+
+To that end, I tested all of the popular iOS Mastodon apps for support of a number of important accessibility features. My findings are replicated in the chart below. I'm in the beta testing program for a few of these apps, so if you see a "Yes", it could mean that the feature is coming soon in a not-yet-released version. 
+
+**Updated:** December 2018
+
+## Feature Comparison Table
+
+User Can...                      | [Amaroq][1]    | [Mast][2]      | [Toot!][3]     | [Tootdon][4]   | [Tootle][5]    | [Tusk][6]      |
 ---------------------------------|----------------|----------------|----------------|----------------|----------------|----------------|         
 View Content Warnings            | Yes            | Yes (1)        | Yes            | Yes            | Yes            | Yes (1)        |
 Write Content Warnings           | Yes            | Yes            | Yes            | Yes            | Yes            | No             |
@@ -38,6 +48,14 @@ Control Gif Animation            | Yes            | Hide Images    | No         
 VoiceOver Support                | Yes            | No (2)         | No&nbsp;(3)    | No (2)         | No (4)         | No (2)         |
 Set System Font Size             | Yes            | No             | No             | No             | No             | No             |
 Supports "Smart Invert"          | No             | No             | No             | No             | No             | No             |
+
+[1]: https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200?mt=8
+[2]: https://itunes.apple.com/us/app/mast/id1437429129?mt=8
+[3]: https://itunes.apple.com/us/app/toot/id1229021451?mt=8
+[4]: https://itunes.apple.com/us/app/tootdon-for-mastodon/id1282283934?mt=8
+[5]: https://itunes.apple.com/us/app/tootle-for-mastodon/id1236013466?mt=8
+[6]: http://tusk.webflow.io/
+
 
 ### Notes
 
