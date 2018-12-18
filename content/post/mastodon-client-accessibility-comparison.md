@@ -1,9 +1,8 @@
 ---
 title: "Mastodon Client Accessibility Comparison"
-date: 2018-12-17 16:23:29
+date: 2018-12-18 15:24:28 
 author: "Ryan Ricard"
-description: "Mastodon Client Accessibility Comparison"
-draft: true
+description: "I compared the most popular Mastodon apps for iOS for their support of important accessibility features"
 ---
 
 <style>
@@ -24,9 +23,9 @@ draft: true
 	}
 </style>
 
-There's been a significant growth in the number of available [Mastodon](https://joinmastodon.org/) apps for iOS in the past few months, with newcomers like Mast and Toot! joining more mature apps like Amaroq and Tootdon, resulting in quite a few choices for iPhone-having Mastodon users. I'm excited to see this diversity of choices and approaches to client apps - it reminds me of the time when Twitter still embraced 3rd-party apps and we saw a great deal of [innovation](https://daringfireball.net/2009/04/twitter_clients_playground) in what a social media app can do. 
+There's been significant growth in the number of available [Mastodon](https://joinmastodon.org/) apps for iOS in the past few months, with newcomers like Mast and Toot! joining more mature apps like Amaroq and Tootdon, resulting in quite a few choices for iPhone-having Mastodon users. I'm excited to see this diversity of choices and approaches to client apps - it reminds me of the time when Twitter still embraced 3rd-party apps and we saw a great deal of [innovation](https://daringfireball.net/2009/04/twitter_clients_playground) in what a social media app can do. 
 
-One of the first questions I have about a new iOS Mastodon app is whether it supports common accessibility features. Mastodon has set a new high bar, both technically and culturally, for a social network that is accessible by all types of people, and I think the ecosystem of client apps should continue to push that boundary forward. Though my vision is correctible to 20-20 using a common [accessibility device](https://en.wikipedia.org/wiki/Glasses), my [home instance](https://mspsocial.net/) and the wider Fediverse both have strong norms around accessibilty for blind and low-vision users (as well as other disabilities) and I want a Mastodon app that helps me be a good citizen on the platform. 
+One of the first questions I have about a new iOS Mastodon app is whether it supports common accessibility features. Mastodon has set a new high bar, both technically and culturally, for a social network that is accessible by all types of people, and I think the ecosystem of client apps should continue to push that boundary forward. Though my vision is correctible to 20-20 using an inexpensive [accessibility device](https://en.wikipedia.org/wiki/Glasses), my [home instance](https://mspsocial.net/) and the wider Fediverse both have strong norms around accessibilty for blind and low-vision users (as well as other disabilities) and I want a Mastodon app that helps me be a good citizen on the platform. 
 
 To that end, I tested all of the popular iOS Mastodon apps for support of a number of important accessibility features. My findings are replicated in the chart below. I'm in the beta testing program for a few of these apps, so if you see a "Yes", it could mean that the feature is coming soon in a not-yet-released version. 
 
@@ -76,7 +75,7 @@ Adding written descriptions of images and videos makes posts with images more ac
 
 ### Color Themes
 
-Some low-vision users require [high contrast](http://accessibility.psu.edu/color/contrasthtml/) between the text and background color in order to read posts. People with some variation of [color blindness](https://usabilla.com/blog/how-to-design-for-color-blindness/) may also find certain color schemes easier or more difficult to use. Many users also like being able to choose between color themes to fit their aesthetic preferences. 
+Some low-vision users require [high contrast](http://accessibility.psu.edu/color/contrasthtml/) between the text and background color in order to read posts. People with some variation of [color blindness](https://usabilla.com/blog/how-to-design-for-color-blindness/) may also find certain color combinations easier or more difficult to use. Many users also like being able to choose between color themes to fit their aesthetic preferences. 
 
 ### Animations/Video
 
@@ -84,7 +83,7 @@ Auto-playing video (and animated GIFs, which for performance reasons the Mastodo
 
 ### VoiceOver Support
 
-One of iOS's most important built-in accessibility features is VoiceOver, which when activated changes the function of on-screen controls to make it easier for blind and low-vision users to use a touchscreen device. When VoiceOver is activated, users can navigate an app by having the interface "read" to them by the device. For a Mastodon app to support VoiceOver correctly, users should be able to tap on a toot and hear the post read correctly. Tapping on images should also read the image description, if available. If you've never seen [VoiceOver in Action](https://www.youtube.com/watch?v=OUGOGepwsHE), I recommend checking out a demo video or [turning it on](https://www.imore.com/how-use-voiceover-iphone-and-ipad) on your own device - it's a very impressive accesibility feature. 
+One of iOS's most important built-in accessibility features is VoiceOver, which when activated changes the function of on-screen controls to make it easier for blind and low-vision users to use a touchscreen device. When VoiceOver is activated, users can navigate an app by having the interface "read" to them by the device. For a Mastodon app to support VoiceOver correctly, users should be able to tap on a toot and hear the post read correctly. Tapping on images should also read the image description, if available. If you've never seen [VoiceOver in action](https://www.youtube.com/watch?v=OUGOGepwsHE), I recommend checking out a demo video or [turning it on](https://www.imore.com/how-use-voiceover-iphone-and-ipad) on your own device - it's a very impressive accessibility feature. 
 
 ### Font Size
 
@@ -96,7 +95,9 @@ In 2017, Apple added a [Smart Invert](https://9to5mac.com/2017/06/09/ios-11-dark
 
 ## Conclusion
 
+As of December 2018, [Amaroq](https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200?mt=8) has substantially better support for accessibility features than any other Mastodon app available for iOS. Amaroq allows users to write image descriptions and content warnings, is very usable via VoiceOver, and respects the user's choice of font size in the Settings app, all of which are substantial accessibility improvements over the competition. It's not perfect or complete - there appear to be some bugs around descriptions of uploaded video and I'd love to be able to change the "reveal CW'd post" action to be a tap instead of a long press - but the [project](https://github.com/ReticentJohn/Amaroq) deserves some praise for its progress so far. 
 
+Many of the other apps are in very early stages, however, and I know at least a few of the developers have acknowledged the need for better accessibility support in future versions. I'll be updating this page periodically, hopefully by adding more "Yes" entries! 
 
 
 <script type="text/javascript">
