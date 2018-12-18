@@ -42,7 +42,7 @@ Write Image Descriptions         | Yes            | Yes            | Yes        
 Read Image Descriptions          | V/O Only       | No             | Yes            | No             | Yes            | No             |
 Write Video Descriptions         | Yes            | Yes            | N/A            | No             | No             | No             |
 Read Video Descriptions          | No             | No             | No             | No             | No             | No             |
-Color Theme Options              | 1              | 4              | 1              | 2              | 5              | 1              |
+Color Theme Options              | 1              | 4              | 4              | 2              | 5              | 1              |
 Control Gif Animation            | Yes            | Hide Images    | No             | Yes            | Yes            | N/A            |
 VoiceOver Support                | Yes            | No (2)         | No&nbsp;(3)    | No (2)         | No (4)         | No (2)         |
 Set System Font Size             | Yes            | No             | No             | No             | No             | No             |
