@@ -40,10 +40,10 @@ Write Content Warnings           | Yes            | Yes            | Yes        
 Show/Hide CW with                | Long Press     | Tap            | Tap            | Tap            | Tap            | Tap            |
 Write Image Descriptions         | Yes            | Yes            | Yes            | No             | No             | No             |
 Read Image Descriptions          | V/O Only       | No             | Yes            | No             | Yes            | No             |
-Write Video Descriptions         | Yes            | Yes            | N/A            | No             | No             | No             |
+Write Video Descriptions         | Yes            | Yes            | Yes            | No             | No             | No             |
 Read Video Descriptions          | No             | No             | No             | No             | No             | No             |
 Color Theme Options              | 1              | 4              | 4              | 2              | 5              | 1              |
-Control Gif Animation            | Yes            | Hide Images    | No             | Yes            | Yes            | N/A            |
+Control Gif Animation            | Yes            | Hide Images    | N/A (5)        | Yes            | Yes            | N/A            |
 VoiceOver Support                | Yes            | No (2)         | No&nbsp;(3)    | No (2)         | No (4)         | No (2)         |
 Set System Font Size             | Yes            | No             | No             | No             | No             | No             |
 Supports "Smart Invert"          | No             | No             | No             | No             | No             | No             |
@@ -62,6 +62,7 @@ Supports "Smart Invert"          | No             | No             | No         
 1. Voiceover won't read image descriptions
 2. Image descriptions work, but usernames are never read with toots.
 3. Image descriptions work, but I can't get VoiceOver to read entire toots
+5. Toot! does not animate GIFs on the timeline view
 
 ## Description of Features Tested
 
