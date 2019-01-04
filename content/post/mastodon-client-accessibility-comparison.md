@@ -29,7 +29,7 @@ One of the first questions I have about a new iOS Mastodon app is whether it sup
 
 To that end, I tested all of the popular iOS Mastodon apps for support of a number of important accessibility features. My findings are replicated in the chart below. I'm in the beta testing program for a few of these apps, so if you see a "Yes", it could mean that the feature is coming soon in a not-yet-released version. 
 
-**Updated:** December 2018
+**Updated:** January 2019
 
 ## Feature Comparison Table
 
@@ -39,7 +39,7 @@ View Content Warnings            | Yes            | Yes (1)        | Yes        
 Write Content Warnings           | Yes            | Yes            | Yes            | Yes            | Yes            | No             |
 Show/Hide CW with                | Long Press     | Tap            | Tap            | Tap            | Tap            | Tap            |
 Write Image Descriptions         | Yes            | Yes            | Yes            | No             | No             | No             |
-Read Image Descriptions          | V/O Only       | No             | Yes            | No             | Yes            | No             |
+Read Image Descriptions          | V/O Only       | Yes (6)        | Yes            | No             | Yes            | No             |
 Write Video Descriptions         | Yes            | Yes            | Yes            | No             | No             | No             |
 Read Video Descriptions          | No             | No             | No             | No             | No             | No             |
 Color Theme Options              | 1              | 4              | 4              | 2              | 5              | 1              |
@@ -59,10 +59,11 @@ Supports "Smart Invert"          | No             | No             | No         
 ### Notes
 
 1. Whether to hide CW'd posts or not is configurable
-1. Voiceover won't read image descriptions
-2. Image descriptions work, but usernames are never read with toots.
-3. Image descriptions work, but I can't get VoiceOver to read entire toots
+2. Voiceover won't read image descriptions
+3. Image descriptions work, but usernames are never read with toots.
+4. Image descriptions work, but I can't get VoiceOver to read entire toots
 5. Toot! does not animate GIFs on the timeline view
+6. There's a setting to display either the toot's text or the image description when tapping an image
 
 ## Description of Features Tested
 
@@ -96,7 +97,7 @@ In 2017, Apple added a [Smart Invert](https://9to5mac.com/2017/06/09/ios-11-dark
 
 ## Conclusion
 
-As of December 2018, [Amaroq](https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200?mt=8) has substantially better support for accessibility features than any other Mastodon app available for iOS. Amaroq allows users to write image descriptions and content warnings, is very usable via VoiceOver, and respects the user's choice of font size in the Settings app, all of which are substantial accessibility improvements over the competition. It's not perfect or complete - there appear to be some bugs around descriptions of uploaded video and I'd love to be able to change the "reveal CW'd post" action to be a tap instead of a long press - but the [project](https://github.com/ReticentJohn/Amaroq) deserves some praise for its progress so far. 
+As of January 2019, [Amaroq](https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200?mt=8) has substantially better support for accessibility features than any other Mastodon app available for iOS. Amaroq allows users to write image descriptions and content warnings, is very usable via VoiceOver, and respects the user's choice of font size in the Settings app, all of which are substantial accessibility improvements over the competition. It's not perfect or complete - there appear to be some bugs around descriptions of uploaded video and I'd love to be able to change the "reveal CW'd post" action to be a tap instead of a long press - but the [project](https://github.com/ReticentJohn/Amaroq) deserves some praise for its progress so far. 
 
 Many of the other apps are in very early stages, however, and I know at least a few of the developers have acknowledged the need for better accessibility support in future versions. I'll be updating this page periodically, hopefully by adding more "Yes" entries! 
 
