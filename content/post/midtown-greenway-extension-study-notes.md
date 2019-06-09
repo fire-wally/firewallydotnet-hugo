@@ -1,15 +1,14 @@
 ---
 title: "Notes on the Midtown Greenway Extension"
+author: "Ryan Ricard"
 date: 2019-06-09T16:02:19-05:00
-draft: true
 ---
 
-The Midtown Greenway Coalition recently commisioned a feasibility study on an [extension of the Greenway](https://3kpnuxym9k04c8ilz2quku1czd-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/Final-Greenway-Extension-Report-2019-04-12-.pdf) over the Short Line Bridge into St. Paul. I'm very interested in the project (I even did a little fundraising for the feasibility study), so I decided to read the report. As a software engineer, the bridge-building jargon was foreign to me but I found the document very straightforward and readable with a few outside references. Here's a few interesting things I learned along with some stray thoughts about the project. 
+The Midtown Greenway Coalition recently commisioned a feasibility study on an [extension of the Greenway](https://3kpnuxym9k04c8ilz2quku1czd-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/Final-Greenway-Extension-Report-2019-04-12-.pdf) over the Short Line Bridge into St. Paul. I'm very interested in the project (I even did a little [fundraising](https://ryan-rides-a-bike.glitch.me/) for the feasibility study), so I decided to read the report. As a software engineer, the bridge-building jargon was foreign to me but I found the document very straightforward and readable with a few outside references. Here's a few interesting things I learned along with some stray thoughts about the project. 
 
 CP Rail (who owns the bridge today) has been totally non-cooperative in the project so far, so the engineering team flew a drone with cameras and LIDAR up to the bridge to get detailed measurements and photographs. That's pretty cool. 
 
 The Short Line bridge is an example of a [Baltimore Truss Bridge](https://en.wikipedia.org/wiki/Truss_bridge#Baltimore_truss), which is based on the Pratt Truss design with vertical and diagonal pieces forming triangle-shaped supports for the bridge structure. 
-
 
 The bridge uses [Eyebars](https://en.wikipedia.org/wiki/Eyebar), long metal rods with formed holes connected by pins, as the main connection between sections. Exhibit B8 on page 26 is a good photo of an eyebar
 
