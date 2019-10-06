@@ -36,4 +36,5 @@ On a local level, the issues that are most important to me are housing and trans
 
 * [Polling Place Finder](https://pollfinder.sos.state.mn.us/), remember that every eligible Minnesota voter can register to vote on election day
 * [How to Vote Early in person or by mail](https://www.ramseycounty.us/residents/elections-voting/voters/vote-election-day)
+* St. Paul author [Naomi Kritzer](https://naomikritzer.com/) is the hardest working election blogger in the business and she generally does a great job
 
