@@ -2,9 +2,11 @@
 	"title": "St. Paul Election 2019 - The Trash Referendum",
 	"author": "Ryan Ricard",
 	"description": "We have to vote on garbage?",
-	"date":  "2019-10-05 8:00:00",
+	"date":  "2019-10-06 18:35:00",
 	"draft": "true"
 }
+
+*This is part of a series on the [2019 St. Paul Elections](https://firewally.net/post/st-paul-election-guide-2019)*
 
 On November 5th, 2019, all St. Paul voters will be asked the following question on their ballot:
 
