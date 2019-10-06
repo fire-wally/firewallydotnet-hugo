@@ -2,11 +2,10 @@
 	"title": "2019 St. Paul Election Guide",
 	"author": "Ryan Ricard",
 	"description": "I'm going to try blogging the election this year",
-	"date":  "2019-10-05 9:00:00",
-	"draft": "true"
+	"date":  "2019-10-06 18:30:00",
 }
 
-This year, all of the St. Paul City Council and some of the school board are [up for election](https://www.ramseycounty.us/residents/elections-voting/candidates/candidate-filing). I'm going to try writing a quick recap and guide to all those races including recommendations on who to vote for. I did a little bit of writing about the last two elections on Facebook and my friends seemed to find it useful, so hopefully this reaches a wider audience and helps people inform themselves about how to cast their ballot on November 5th. City politics can seem opaque and weird, but I feel it's even more important to engage with politics on the local level because individuals and small groups can have a huge impact on people's lives. One vote counts a whole lot more in a city council race than in an election for congress or the president, so you should go out there and use your power wisely. 
+This year, all of the St. Paul City Council and some of the school board are [up for election](https://www.ramseycounty.us/residents/elections-voting/candidates/candidate-filing). I'm going to try writing a quick recap and guide to all those races including recommendations on who to vote for. I did a little bit of writing about the last two elections on Facebook and my friends seemed to find it useful, so hopefully this reaches a wider audience and helps people inform themselves about how to cast their ballot on November 5th. City politics can seem opaque and weird, but I feel it's even more important to engage with politics on the local level because individuals and small groups can have a huge impact on government. One vote counts a whole lot more in a city council race than in an election for congress or the president, so you should go out there and use your power wisely. 
 
 
 ## About Me 
@@ -15,13 +14,13 @@ I'm a software developer who has lived in St. Paul for a little over 10 years no
 
 ## My Biases
 
-There's no way that I'm even going to attempt to write about elections in a detached, "neutral" style, so it might be useful to know the point-of-view that I'm starting from. Generally, I agree with the policy positions of the progressive wing of the democratic party. I want to see universal health care, more protectctions for workers, a less cruel immigration policy, fewer restrictions on voters, and I think the government needs to do much, much more to limit the damage of human-caused climate change. 
+There's no way that I'm even going to attempt to write about elections in a detached, "neutral" style, so it might be useful to know the point-of-view that I'm starting from. Generally, I agree with the policy positions of the progressive wing of the democratic party. I want to see universal health care, more protections for workers, a less cruel immigration policy, fewer restrictions on voters, and I think the government needs to do much, much more to limit the damage of human-caused climate change. 
 
 On a local level, the issues that are most important to me are housing and transportation policy. In addition to a long-term climate crisis, we are in the middle of an immediate housing crisis. We've got a record low [vacancy rate](https://www.twincities.com/2019/04/05/census-data-show-twin-cities-home-vacancy-is-second-lowest-in-nation/) because the twin cities are a desirable place to live, and rents have skyrocketed as a result of us not building enough housing for the people who want to live here. The housing problem and the climate problem are inter-related, and we make progress on both by building more mixed-use neighborhoods with lots of safe, comfortable options for walking, biking, and transit to reduce our reliance on cars. I want to vote for elected officials that share this vision of what our city can be. 
 
 ## 2019 St. Paul Elections
 
-(these will turn to links as my posts get written)
+(these will turn to links as my posts get published)
 
 * Coordinated Trash Pickup Ballot Question
 * City Council Ward 1
