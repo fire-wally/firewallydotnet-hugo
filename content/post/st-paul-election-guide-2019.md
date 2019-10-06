@@ -22,7 +22,7 @@ On a local level, the issues that are most important to me are housing and trans
 
 (these will turn to links as my posts get published)
 
-* Coordinated Trash Pickup Ballot Question
+* [Coordinated Trash Pickup Ballot Question](https://firewally.net/post/the-trash-post)
 * City Council Ward 1
 * City Council Ward 2
 * City Council Ward 3
