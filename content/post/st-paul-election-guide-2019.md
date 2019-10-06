@@ -2,7 +2,7 @@
 	"title": "2019 St. Paul Election Guide",
 	"author": "Ryan Ricard",
 	"description": "I'm going to try blogging the election this year",
-	"date":  "2019-10-06 18:30:00",
+	"date":  "2019-10-06 18:30:00"
 }
 
 This year, all of the St. Paul City Council and some of the school board are [up for election](https://www.ramseycounty.us/residents/elections-voting/candidates/candidate-filing). I'm going to try writing a quick recap and guide to all those races including recommendations on who to vote for. I did a little bit of writing about the last two elections on Facebook and my friends seemed to find it useful, so hopefully this reaches a wider audience and helps people inform themselves about how to cast their ballot on November 5th. City politics can seem opaque and weird, but I feel it's even more important to engage with politics on the local level because individuals and small groups can have a huge impact on government. One vote counts a whole lot more in a city council race than in an election for congress or the president, so you should go out there and use your power wisely. 
