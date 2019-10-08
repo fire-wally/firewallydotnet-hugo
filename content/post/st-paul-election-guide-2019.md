@@ -25,7 +25,7 @@ On a local level, the issues that are most important to me are housing and trans
 * [Coordinated Trash Pickup Ballot Question](https://firewally.net/post/the-trash-post)
 * City Council Ward 1
 * City Council Ward 2
-* City Council Ward 3
+* [City Council Ward 3](https://firewally.net/post/st-paul-election-guide-2019/)
 * City Council Ward 4
 * City Council Ward 5
 * City Council Ward 6
