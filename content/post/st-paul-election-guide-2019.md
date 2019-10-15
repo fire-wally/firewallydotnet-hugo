@@ -24,7 +24,7 @@ On a local level, the issues that are most important to me are housing and trans
 
 * [Coordinated Trash Pickup Ballot Question](https://firewally.net/post/the-trash-post)
 * City Council Ward 1
-* City Council Ward 2
+* [City Council Ward 2](https://firewally.net/post/ward-2-2019/)
 * [City Council Ward 3](https://firewally.net/post/ward-3-2019/)
 * [City Council Ward 4](https://firewally.net/post/ward-4-2019/)
 * City Council Ward 5
@@ -37,4 +37,5 @@ On a local level, the issues that are most important to me are housing and trans
 * [Polling Place Finder](https://pollfinder.sos.state.mn.us/), remember that every eligible Minnesota voter can register to vote on election day
 * [How to Vote Early in person or by mail](https://www.ramseycounty.us/residents/elections-voting/voters/vote-election-day)
 * St. Paul author [Naomi Kritzer](https://naomikritzer.com/) is the hardest working election blogger in the business and she generally does a great job
-
+* The [Neighbors For More Neighbors](https://medium.com/neighbors-for-more-neighbors/saint-paul-city-council-candidate-questionnaire-47e3690fa021) questionnaire is a great way to learn the candidates' positions on housing issues
+* [SPNN](https://www.youtube.com/user/MySPNN) is doing the important work of filming candidate forums and posting them to youtube, check their recent uploads for video from your ward
