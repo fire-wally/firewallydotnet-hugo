@@ -29,7 +29,7 @@ On a local level, the issues that are most important to me are housing and trans
 * [City Council Ward 4](https://firewally.net/post/ward-4-2019/)
 * [City Council Ward 5](https://firewally.net/post/ward-5-2019/)
 * City Council Ward 6
-* City Council Ward 7
+* [City Council Ward 7](https://firewally.net/post/ward-7-2019/)
 * St. Paul School Board Election
 
 ## More Resources
