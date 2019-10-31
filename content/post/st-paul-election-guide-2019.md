@@ -28,7 +28,7 @@ On a local level, the issues that are most important to me are housing and trans
 * [City Council Ward 3](https://firewally.net/post/ward-3-2019/)
 * [City Council Ward 4](https://firewally.net/post/ward-4-2019/)
 * [City Council Ward 5](https://firewally.net/post/ward-5-2019/)
-* City Council Ward 6
+* [City Council Ward 6](https://firewally.net/post/ward-6-2019/)
 * [City Council Ward 7](https://firewally.net/post/ward-7-2019/)
 * St. Paul School Board Election
 
@@ -39,3 +39,6 @@ On a local level, the issues that are most important to me are housing and trans
 * St. Paul author [Naomi Kritzer](https://naomikritzer.com/) is the hardest working election blogger in the business and she generally does a great job
 * The [Neighbors For More Neighbors](https://medium.com/neighbors-for-more-neighbors/saint-paul-city-council-candidate-questionnaire-47e3690fa021) questionnaire is a great way to learn the candidates' positions on housing issues
 * [SPNN](https://www.youtube.com/user/MySPNN) is doing the important work of filming candidate forums and posting them to youtube, check their recent uploads for video from your ward
+* John Edwards, writing under his irreverent [Wedge Live](https://wedgelive.com/) banner, has weighed with endorsements on some of the City Council races
+* The [Star Tribune Editorial Board](http://www.startribune.com/our-picks-in-the-st-paul-city-council-election/564128142/) has endorsed candidates in each city council race and the [School Board](http://www.startribune.com/picking-leaders-for-st-paul-schools/564064422/)
+* [Streets.MN](https://streets.mn/category/features/2019-voter-guide/) put out a questionnaire for the Ward 1 candidates
