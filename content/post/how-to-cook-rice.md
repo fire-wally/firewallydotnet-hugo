@@ -1,9 +1,8 @@
 ---
 title: "The Internet Won't Help You Cook Rice"
-date: 2021-01-23T08:00:00-06:00
+date: 2021-01-30T11:00:00-06:00
 author: "Ryan Ricard"
 description: "On why learning things is hard"
-draft: true
 ---
 
 <style>
