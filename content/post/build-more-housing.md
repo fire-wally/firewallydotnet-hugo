@@ -20,6 +20,24 @@ I should note here that I'm just a software developer with no formal experience 
 
 I'm using 2009 as the starting point of my analysis because it marked the end of the Great Recession (at least in terms of GDP) and started a decade of consistent population and job growth in the Twin Cities. The reasons why we've added so many jobs aren't really important to my argument here, but my one-line explainer is that the Twin Cities benefits from a highly educated population, strong roots in growing healthcare and tech industries, and long-term trends towards urbanization across the US. The parks, lakes, and rivers are also quite nice. 
 
+So let's take a look at how the 7-county Minneapolis metro area has grown since 2009, in terms of people and housing units:
+
+(GRAPH ONE)
+
+From 2009-2018, the Twin Cities grew by 260,593 people and added 64,963 houses or apartments in which to house them, almost exactly a 4:1 ratio of new people to new homes. That seems, well, like not enough housing, unless every last person who moved here is living double-bunked in a 2-bedroom apartment. Population growth can happen in lots of different ways, though - newborn babies have different housing needs than young professionals or retirees - so let's also look at job growth in that same time period as a measure of housing demand independent of family size. Generally speaking, every new job will correspond with a new person who wants to live in area, either by themselves or with their family. 
+
+(GRAPH TWO)
+
+Okay, yep. That graphs looks very similar. We've added 232,000 jobs to the metro area in the last decade, and the gap between added jobs and added housing seems to be growing larger. 
+
+This is the part where I say that when demand for a thing increases and the supply of that thing is not increased to match, the thing becomes more expensive. Do I need to elaborate further, in a year where we have all seen this dynamic play out across a wide array of product categories? If you've tried to buy a bicycle or a rowing machine or a Nintendo Switch or a Playstation or a computer graphics card or a bag of flour or a case of toilet paper this year, you may have come to a situation where you had to choose between paying more than you otherwise would or going without. Housing is a market like any other, with a variety of potential buyers and sellers, and it's subject to market forces. If we have a desirable place to live and we don't build enough living places, we should expect the cost of a home in our city to continue to rise. 
+
+(GRAPH THREE)
+
+I could only find median gross rent for the Minneapolis "Metropolitan Statistical Area", which is a larger zone than the 7-county metro, but I think it's a fair way to illustrate the overall trend. Median rent has gone from $845 to $1,144 from 2010 to 2019, a 35% increase. These numbers are metro-wide, so it's safe to say that rents in the most desirable parts of Minneapolis and St. Paul (nice neighborhoods near transit and other amenities) have gone up even more. If anything, these numbers look tame compared to what's happened to San Franisco, Austin, or Seattle over the same timeframe, but these rent increases do incredible harm to people who find themselves priced out of their homes if their income doesn't increase to match rising rents. 
+
+I think it's very important for the current citizens of desirable American cities to recognize and fight these trends by advocating for the construction of more homes. 
+
 
 
 Rental Vacancy: https://www.deptofnumbers.com/rent/minnesota/minneapolis/
