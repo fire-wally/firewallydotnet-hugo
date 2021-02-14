@@ -40,4 +40,6 @@ I think it's very important for the current citizens of desirable American citie
 
 That's what I mean when I say "Build More Housing". 
 
+NOTES:
 
+You can see the data I collected for this post in a Google Sheet here: https://docs.google.com/spreadsheets/d/1ysmlxttCIHGBYBAE0H7a30IgMOYNIjPMGcvNARl8A3c/edit?usp=sharing
