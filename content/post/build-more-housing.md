@@ -36,7 +36,9 @@ This is the part where I say that when demand for a thing increases and the supp
 
 I could only find median gross rent for the Minneapolis "Metropolitan Statistical Area", which is a larger zone than the 7-county metro, but I think it's a fair way to illustrate the overall trend. Median rent has gone from $845 to $1,144 from 2010 to 2019, a 35% increase. These numbers are metro-wide, so it's safe to say that rents in the most desirable parts of Minneapolis and St. Paul (nice neighborhoods near transit and other amenities) have gone up even more. If anything, these numbers look tame compared to what's happened to San Franisco, Austin, or Seattle over the same timeframe, but these rent increases do incredible harm to people who find themselves priced out of their homes if their income doesn't increase to match rising rents. 
 
-I think it's very important for the current citizens of desirable American cities to recognize and fight these trends by advocating for the construction of more homes. 
+I think it's very important for the current citizens of desirable American cities to recognize and fight these trends by advocating for the construction of more homes. Most U.S. cities have inherited [zoning codes](https://housingmatters.urban.org/articles/how-zoning-shapes-our-lives) created in more racist, classist, and exclusionary times than our own that continue to shape how our cities grow. We need more homes of many different shapes and sizes to help our cities grow to their full potential and help as many people as possible thrive within them. I'm happy to participate in discussion about how best to encourage growth that is humane and sustainable, but I think that discussion must start with a shared understanding of why housing is becoming unaffordable in American cities: a consistent, widespread lack of supply. 
+
+That's what I mean when I say "Build More Housing". 
 
 
 
