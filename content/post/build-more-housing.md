@@ -28,7 +28,7 @@ From 2009-2018, the Twin Cities grew by 260,593 people and added 64,963 houses o
 
 <img src="https://firewally.net/img/housing-graph-2-jobs-v-housing.png" alt="A Google Docs graph with two lines showing the change in jobs and the change in number of housing units in the Minneapolis metro area since 2009. Both lines increase over time, but the jobs line increases substantially more than the housing line" />
 
-Okay, yep. That graph looks very similar. We've added 232,000 jobs to the metro area in the last decade, and the gap between added jobs and added housing seems to be growing larger. 
+Okay, yep. That graph looks very similar. We've added 235,000 jobs to the metro area in the last decade, and the gap between added jobs and added housing seems to be growing larger. 
 
 This is the part where I say that when demand for a Thing increases and the supply of that Thing is not increased to match, the Thing becomes more expensive. Do I need to elaborate further, in a year where we have all seen this dynamic play out across a wide array of product categories? If you've tried to buy a bicycle or a rowing machine or a Nintendo Switch or a Playstation or a computer graphics card or a bag of flour or a case of toilet paper this year, you may have come to a situation where you had to choose between paying more than you otherwise would or going without. Housing is a market like any other, with a variety of potential buyers and sellers, and it's subject to market forces. If we have a desirable place to live and we don't build enough living places, we should expect the cost of a home in our city to continue to rise. 
 
