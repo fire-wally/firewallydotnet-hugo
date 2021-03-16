@@ -1,10 +1,11 @@
 ---
-title: "Build More Housing"
-date: 2021-02-06T11:00:00-06:00
+title: "Build More Housing: The Big Picture"
+date: 2021-03-16T11:00:00-06:00
 author: "Ryan Ricard"
-description: "The Big Picture"
-draft: true
+description: "A whole bunch of people want to move to our fair cities and we need to build homes for them"
 ---
+
+<i>A version of this article also appeared on [Streets.MN](https://streets.mn/2021/03/16/build-more-housing-the-big-picture/)</i>
 
 Neighborhoods are designed, slowly and constantly, by the people who live in them. We make decisions about what gets built and who gets to use it or live in it through a network of community meetings, zoning boards, and city and state governments. In the process we create something we call "housing policy".  I have participated in a number of these discussions since moving to St. Paul, and they almost always focus on the details of a proposed building: how tall, what color, how many parking spaces, etc. Of course, I understand why: when designing and building homes that people will live in for a long time, it's important to get the details right. The way a neighborhood or a city grows and changes is influenced by what gets built, so it's natural that people want to have a say in what kind of housing is built near them.
 
@@ -24,7 +25,7 @@ So let's take a look at how the 7-county Minneapolis metro area has grown since 
 
 <img src="https://firewally.net/img/housing-graph-1-pop-v-housing.png" alt="A Google Docs graph with two lines showing the change in population and the change in number of housing units in the Minneapolis metro area since 2009. Both lines increase over time, but the population line increases substantially more than the housing line" />
 
-From 2009-2019, the Twin Cities grew by 284340 people and added 78,225 houses or apartments in which to house them, nearly a 4:1 ratio of new people to new homes. That seems, well, like not enough housing, unless every last person who moved here is living double-bunked in a 2-bedroom apartment. Population growth can happen in lots of different ways, though - newborn babies have different housing needs than young professionals or retirees - so let's also look at job growth in that same time period as a measure of housing demand independent of family size. Generally speaking, every new job will correspond with a new person who wants to live in the area, either by themselves or with their family. 
+From 2009-2019, the Twin Cities grew by 284,340 people and added 78,225 houses or apartments in which to house them, nearly a 4:1 ratio of new people to new homes. That seems, well, like not enough housing, unless every last person who moved here is living double-bunked in a 2-bedroom apartment. Population growth can happen in lots of different ways, though - newborn babies have different housing needs than young professionals or retirees - so let's also look at job growth in that same time period as a measure of housing demand independent of family size. Generally speaking, every new job will correspond with a new person who wants to live in the area, either by themselves or with their family. 
 
 <img src="https://firewally.net/img/housing-graph-2-jobs-v-housing.png" alt="A Google Docs graph with two lines showing the change in jobs and the change in number of housing units in the Minneapolis metro area since 2009. Both lines increase over time, but the jobs line increases substantially more than the housing line" />
 
